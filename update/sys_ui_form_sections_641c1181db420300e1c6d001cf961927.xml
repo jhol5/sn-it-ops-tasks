@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="641c1181db420300e1c6d001cf961927" sys_domain="global" table="x_27105_it_op_it_child_task" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-24 21:35:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>641c1181db420300e1c6d001cf961929</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_27105_it_op_it_child_task" name="x_27105_it_op_it_child_task" sys_domain="global" view="Default view">641c1181db420300e1c6d001cf961927</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_27105_it_op_it_child_task" sys_domain="global" view="Default view">641cdd41db420300e1c6d001cf96194f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-24 21:35:36</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_27105_it_op_it_child_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-24 21:35:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>641c1181db420300e1c6d001cf961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_27105_it_op_it_child_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IT Operations Tasks" source="x_27105_it_op">1547598ddb020300e1c6d001cf9619be</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Operations Tasks">1547598ddb020300e1c6d001cf9619be</sys_scope>
+            <sys_update_name>sys_ui_form_sections_641c1181db420300e1c6d001cf961927</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-24 21:35:36</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

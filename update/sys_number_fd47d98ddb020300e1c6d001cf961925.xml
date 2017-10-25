@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_27105_it_op_master_task">x_27105_it_op_master_task</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>ITOMT</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-24 21:14:39</sys_created_on>
+        <sys_id>fd47d98ddb020300e1c6d001cf961925</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ITOMT</sys_name>
+        <sys_package display_value="IT Operations Tasks" source="x_27105_it_op">1547598ddb020300e1c6d001cf9619be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Operations Tasks">1547598ddb020300e1c6d001cf9619be</sys_scope>
+        <sys_update_name>sys_number_fd47d98ddb020300e1c6d001cf961925</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-24 21:14:39</sys_updated_on>
+    </sys_number>
+</record_update>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="x_27105_it_op_master_task" label="IT Operations Child Tasks" max_length="40" name="x_27105_it_op_it_child_task" type="collection"/>
+</database>

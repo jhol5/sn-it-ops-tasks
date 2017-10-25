@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="run_type" table="x_27105_it_op_master_task" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>run_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Daily</label>
+            <language>en</language>
+            <name>x_27105_it_op_master_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-24 21:54:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e9602105db420300e1c6d001cf9619d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-24 21:54:31</sys_updated_on>
+            <value>daily</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>run_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Weekly</label>
+            <language>en</language>
+            <name>x_27105_it_op_master_task</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-24 21:54:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ed602105db420300e1c6d001cf9619db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-24 21:54:31</sys_updated_on>
+            <value>weekly</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>run_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Monthly</label>
+            <language>en</language>
+            <name>x_27105_it_op_master_task</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-24 21:54:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ad602105db420300e1c6d001cf9619dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-24 21:54:31</sys_updated_on>
+            <value>monthly</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>run_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Periodically</label>
+            <language>en</language>
+            <name>x_27105_it_op_master_task</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-24 21:54:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6d602105db420300e1c6d001cf9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-24 21:54:31</sys_updated_on>
+            <value>periodically</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>run_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Once</label>
+            <language>en</language>
+            <name>x_27105_it_op_master_task</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-24 21:54:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2d602105db420300e1c6d001cf9619e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-24 21:54:31</sys_updated_on>
+            <value>once</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>run_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>On Demand</label>
+            <language>en</language>
+            <name>x_27105_it_op_master_task</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-24 21:54:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e9602105db420300e1c6d001cf9619e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-24 21:54:31</sys_updated_on>
+            <value>on_demand</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>run_type</element>
+            <name>x_27105_it_op_master_task</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-24 21:54:31</sys_created_on>
+            <sys_id>a9602105db420300e1c6d001cf9619db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>run_type</sys_name>
+            <sys_package display_value="IT Operations Tasks" source="x_27105_it_op">1547598ddb020300e1c6d001cf9619be</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Operations Tasks">1547598ddb020300e1c6d001cf9619be</sys_scope>
+            <sys_update_name>sys_choice_x_27105_it_op_master_task_run_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-24 21:54:31</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
