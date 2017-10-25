@@ -48,7 +48,6 @@
                 <element label="Monthly" sequence="2" value="monthly"/>
                 <element label="Periodically" sequence="3" value="periodically"/>
                 <element label="Once" sequence="4" value="once"/>
-                <element label="On Demand" sequence="5" value="on_demand"/>
             </choice>
         </element>
     </element>

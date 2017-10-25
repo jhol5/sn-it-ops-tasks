@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>run_period</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-25 15:12:12</sys_created_on>
+        <sys_id>fccd451ddb020300e1c6d001cf9619c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>run_period</sys_name>
+        <sys_package display_value="IT Operations Tasks" source="x_27105_it_op">1547598ddb020300e1c6d001cf9619be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Operations Tasks">1547598ddb020300e1c6d001cf9619be</sys_scope>
+        <sys_update_name>sys_ui_policy_action_fccd451ddb020300e1c6d001cf9619c0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-25 15:12:12</sys_updated_on>
+        <table>x_27105_it_op_master_task</table>
+        <ui_policy display_value="Run Periodically">f69d811ddb020300e1c6d001cf9619a9</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
