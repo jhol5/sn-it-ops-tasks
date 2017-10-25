@@ -50,5 +50,6 @@
                 <element label="Once" sequence="4" value="once"/>
             </choice>
         </element>
+        <element label="Scheduled Script" max_length="32" name="scheduled_script" read_only="true" type="document_id"/>
     </element>
 </database>
